@@ -1,0 +1,10 @@
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.AssemblyReference.cache
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Properties.Resources.resources
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.GenerateResource.cache
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.csproj.CoreCompileInputs.cache
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\Github Downloader.exe.config
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\Github Downloader.exe
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\bin\Debug\Github Downloader.pdb
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\Github Downloader.exe
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\Github Downloader.pdb
+C:\Users\ZEZE\source\repos\WindowsFormsApp25\WindowsFormsApp25\obj\Debug\WindowsFormsApp25.Form1.resources
