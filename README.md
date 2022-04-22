@@ -1,3 +1,3 @@
 # Github-Downloader
 
-![image](https://user-images.githubusercontent.com/77151276/163765138-e82393ed-f8b9-4205-9cba-55ea5a73e76f.png)
+![image](https://user-images.githubusercontent.com/77151276/164730350-3c9df1b2-ac3f-4d4c-a766-6fee6e2f3015.png)
